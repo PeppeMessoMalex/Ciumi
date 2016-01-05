@@ -1,0 +1,14 @@
+{
+  "name": "Ciumi",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "height": 300,
+    "width": 400,
+    "frame": true
+  },
+  "dependencies": {
+    "peerflix": "^0.32.2"
+  }
+}
