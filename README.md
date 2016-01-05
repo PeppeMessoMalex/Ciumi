@@ -1,2 +1,2 @@
 # Ciumi
-Drag &amp; drop app for stream magnet link
+Drag &amp; drop app for magnet link stream
